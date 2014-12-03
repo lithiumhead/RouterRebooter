@@ -46,5 +46,4 @@ case $return_value in
 				;;
 		esac
 		;;
-		;;
 esac
